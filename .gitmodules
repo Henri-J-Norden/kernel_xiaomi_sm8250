@@ -1,0 +1,3 @@
+[submodule "toolchains/ASOP_platform_clang_linux-x86"]
+	path = toolchains/ASOP_platform_clang_linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
