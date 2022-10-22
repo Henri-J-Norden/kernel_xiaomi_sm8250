@@ -1,3 +1,7 @@
 [submodule "toolchains/ASOP_platform_clang_linux-x86"]
 	path = toolchains/ASOP_platform_clang_linux-x86
 	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "toolchains/ASOP_platform_gcc_linux-x86"]
+	path = toolchains/ASOP_platform_gcc_linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	branch = ndk-release-r21
