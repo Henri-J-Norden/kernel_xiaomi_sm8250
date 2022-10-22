@@ -5,3 +5,6 @@
 	path = toolchains/ASOP_platform_gcc_linux-x86
 	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	branch = ndk-release-r21
+[submodule "toolchains/AnyKernel3"]
+	path = toolchains/AnyKernel3
+	url = https://github.com/osm0sis/AnyKernel3.git
